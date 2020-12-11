@@ -12,7 +12,6 @@
     <div class="flex-inline">
       <div class="text-4xl mb-4">
         <span class="font-semibold">{{ $t('COMMON.ARK') }}</span>
-        {{ $t('COMMON.DESKTOP_WALLET') }}
       </div>
 
       <div class="text-sm mb-2">

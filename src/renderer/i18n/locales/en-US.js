@@ -6,7 +6,7 @@ export default {
     APP_NAME: 'CRIPTOSISTEMA',
     APP_NAME_SHORT: 'CRIPTOSISTEMA',
     APPEARANCE: 'Appearance',
-    ARK: 'CDV',
+    ARK: 'CRIPTOSISTEMA',
     AVATAR: 'Avatar',
     BACK: 'Back',
     BACKGROUND: 'Background',
@@ -75,7 +75,7 @@ export default {
 
   INTRODUCTION: {
     WELCOME: {
-      TITLE: 'Welcome to {APP}',
+      TITLE: 'Bienvenido a la Wallet Institucional del {APP}',
       SAFETY_MESSAGE: 'Please take a few moments to read the next few screens for your own safety.',
       FUNDS_WARNING: 'Your funds could be unrecoverable if you do not pay close attention to these warnings.'
     },
